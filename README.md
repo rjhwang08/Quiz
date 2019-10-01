@@ -7,7 +7,7 @@ cd Quiz // PatternRecognition 폴더 안에 생성된 Quiz 폴더로 이동
 
 git add . // Quiz폴더에 저장한 20190924_Quiz1.py  20190930_Quiz2_solution.py 파일을 staging area에 올림
 git commit -m "Add 20190924_Quiz1.py & 20190930_Quiz2_solution.py" // 두개의 파일을 커밋
-git push // remote repo로 동기화
+git push // remote repo로 
 
 git branch solution // solution 브랜치 생성
 git checkout solution // HEAD가 solution 브랜치를 가리키도록 변경
